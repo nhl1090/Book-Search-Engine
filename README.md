@@ -28,8 +28,26 @@ This project is licensed under the [MIT license](https://opensource.org/license/
 
 
 ## Contributing
-- 
+- []()
+- []()
+
+- [Git Hub]()
+    - [Deploy with Render and MongoDB Atlas](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-render-and-mongodb-atlas)
+    - [Set Up MongoDB Atlas](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-set-up-mongodb-atlas)
+- [JWT.io]()
+    - [Introduction to JSON Web Tokens](https://jwt.io/introduction)
+- [MongoDB]()
+    - [Atlas Database](https://www.mongodb.com/products/platform/atlas-database)
+- [React Router]()
+    - [Tutorial](https://reactrouter.com/en/main/start/tutorial)
 - [Starter Code](https://github.com/coding-boot-camp/solid-broccoli)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ## Tests
 N/A
