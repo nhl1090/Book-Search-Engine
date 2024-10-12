@@ -101,4 +101,4 @@ N/A
 
 
 ## Questions
-For any questions, please reach out to me at [nhl1090](https://github.com/nhl1090). Thank you!
+For any inquiries, please visit [nhl1090](https://github.com/nhl1090). Thank you!
